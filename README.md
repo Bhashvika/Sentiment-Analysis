@@ -19,7 +19,7 @@ Evaluation:
 The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure that it can classify sentiments with a high degree of reliability.
 A system is put in place to collect feedback on the model's predictions, which is used to make continuous improvements to the model.
 Result:
-The end result is a sophisticated sentiment analysis system that can accurately classify restaurant reviews. This system serves as a valuable tool for restaurant owners to understand customer sentiment and make informed decisions to improve their services and attract new customers![image](https://github.com/Bhashvika/Sentiment-Analysis/assets/108601714/fdaa55fe-4b32-4543-bfa8-22d03cfc2511)
+The end result is a sophisticated sentiment analysis system that can accurately classify restaurant reviews. This system serves as a valuable tool for restaurant owners to understand customer sentiment and make informed decisions to improve their services and attract new customers!
 
 
 
